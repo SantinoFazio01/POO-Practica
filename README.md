@@ -1,2 +1,3 @@
 # POO-Practica
-Aprendiendo Programación Orientada a Objetos
+Aprendiendo Programación Orientada a Objetos con Python
+
